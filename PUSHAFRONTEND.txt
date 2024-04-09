@@ -1,6 +1,6 @@
 backend ligger uppe på AWS:
 
-ssh -i "C:\Users\Marcus\Desktop\Key pair AWS\AWS.pem" ubuntu@ec2-16-16-192-164.eu-north-1.compute.amazonaws.com
+ssh -i 
 
 Efter jag ändrat något på backend så måste jag nog köra (på i backend mappen på virtuella datorn):
 sudo node server.js
